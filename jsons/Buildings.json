@@ -1,6 +1,6 @@
 [
   	{
-		"name": "German Bread",
+		"name": "German Bakery",
 		"replaces": "Granary",
 		"uniqueTo": "Germany",
 		"food": 2,
