@@ -12,7 +12,17 @@
       "[+2 Gold] [in this city] <after discovering [Guilds]>"],
 		"requiredTech": "Pottery"
 	},
-  
+   	{
+		"name": " Limes Germanicus",
+		"uniqueTo": "Germany",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Walls] in all cities", "Cost increases by [30] per owned city"
+            	"[+33]% Strength <vs [Barbarian] units>",
+            	"Earn [25]% of killed [Barbarian] unit's [Strength] as [Faith]",],
+		"requiredTech": "Construction"
+	},
   
   
   ]
