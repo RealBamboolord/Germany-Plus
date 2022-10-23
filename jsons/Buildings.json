@@ -8,7 +8,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+2 Food] from [Wheat] tiles [in this city]"],
+			"[+2 Food] from [Wheat] tiles [in this city]",
       "[+2 Gold] [in this city] <after discovering [Guilds]>"],
 		"requiredTech": "Pottery"
 	},
